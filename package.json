@@ -102,7 +102,7 @@
     "intro.js": "^2.5.0",
     "istanbul": "^0.4.3",
     "jasmine": "^2.4.1",
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "jsdoc": "^3.4.0",
     "json-loader": "^0.5.7",
     "local-links": "^1.4.0",
